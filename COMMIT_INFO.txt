@@ -1,0 +1,11 @@
+commit: 4c5488e38a47e60f630a1ccbeba058d70f584c0b
+short: 4c5488e
+date: 2026-04-06 09:48:09 -0300
+author: C-r0 <146779565+C-r0@users.noreply.github.com>
+
+Update README with notes on movement scripts
+
+Clarify the need for code improvement and mention lack of Unity access for further development.
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
